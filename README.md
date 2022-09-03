@@ -1,7 +1,10 @@
 # Amazon-Fine-Food-Reviews-Classification
 Sentiment Analysis
+
 Aim : To determine the sentiment of a given review. (Negative/ Neutral/ Positive)
+
 ML Task : Supervised Learning Multi-Class Text Classification
+
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 The dataset consists of reviews of fine foods from Amazon.
